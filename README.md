@@ -9,15 +9,15 @@ Features
 > Search Record — find a record by ID/name
 > Update Record — modify existing record details
 > Delete Record — remove a record permanently
-> File I/O — records persist in a file (records.json) even after the program closes
+> File I/O  records persist in a file (records.json) even after the program closes
 > Exception Handling — handles invalid inputs and file errors
 #Tech Stack
-Language: Python 3.x
+Language: Python 3.14.7
 Concepts used: Data Types & Variables, Conditionals & Loops, Functions, Exception Handling, File I/O
 #Project Structure
-├── main.py          # Entry point - menu loop
-├── records.txt      # Data storage file (auto-created)
-└── README.md
+-main.py          # Entry point - menu loop
+-records.txt      # Data storage
+-README.md
 #How to Run
 bash
 python main.py
@@ -29,6 +29,6 @@ python main.py
 5. Delete Record
 6. Exit
 #Requirements
-Python 3.7 or higher
+Python 3.14.7 
 #Author
 Munna Jayprakash Thakur
