@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "MUNNA THAKUR",
+        "age": 21,
+        "department": "MCA",
+        "contact": "9327326219"
+    },
+    {
+        "id": 2,
+        "name": "MUNNA",
+        "age": 21,
+        "department": "MCA",
+        "contact": "8797643457"
+    },
+    {
+        "id": 4,
+        "name": "MUNNA THAKUR",
+        "age": 21,
+        "department": "MCA",
+        "contact": "9327326219"
+    },
+    {
+        "id": 5,
+        "name": "chunnu",
+        "age": 22,
+        "department": "mca",
+        "contact": "7879643460"
+    }
+]
